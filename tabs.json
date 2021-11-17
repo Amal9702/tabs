@@ -13,17 +13,11 @@
 				"destination": "Details",
 				"image": "https://intranet.sfhm.med.sa/IntranetProjects/intranet-assets/img/ICT.png"
 			},
-			"menu" : [
-				{
+			"menu" : {
 				"m-title": "Ticketing System",
 				"m-link": "#",
 				"m-span": "fa fa-ticket",
-				},{
-				"m-title": "Ticketing System",
-				"m-link": "#",
-				"m-span": "fa fa-computer",
-				}
-			],
+			}
 		},
 		{
 			"title": {
