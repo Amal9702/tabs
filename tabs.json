@@ -12,7 +12,7 @@
 				"url": "#",
 				"destination": "Details",
 				"image": "https://intranet.sfhm.med.sa/IntranetProjects/intranet-assets/img/ICT.png",
-				"menu": "fa fa-ticket"
+				"menu": "<script>alaert('test')</script>"
 			}
 			
 		},
